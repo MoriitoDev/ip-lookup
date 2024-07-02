@@ -1,7 +1,7 @@
 import os
 from ipdata import ipdata
 
-key = '76f983cd939a47ef46b7f5a1e345a2fd85ec92409cec5601e80e38de'
+key = 'your api key here'
 
 def print_ip_info(ip_info):
     if 'error' in ip_info:
